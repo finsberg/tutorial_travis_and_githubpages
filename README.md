@@ -18,4 +18,10 @@ We will use `sphinx` to generate documentation and we will publish the documenta
 
 ### Creating documenation with sphinx
 
+
 ### Building documenation that will be hosted on github pages
+
+Create a new branch called `gh-pages`
+```
+git checkout -b gh-pages
+```
