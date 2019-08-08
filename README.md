@@ -11,7 +11,11 @@ Add a badge with the information about whether test passed or not. In my case th
 
 [![Build Status](https://travis-ci.com/finsberg/tutorial_travis_and_githubpages.svg?branch=master)](https://travis-ci.com/finsberg/tutorial_travis_and_githubpages)
 
-## Sphinx
-This is a simple tutorial showing how to use sphinx to document your code.
-In this folder there is some very simple code, and we want to create some nice
-looking documentation.
+## Creating documentation for your code.
+
+We will use `sphinx` to generate documentation and we will publish the documentation using github pages. 
+
+
+### Creating documenation with sphinx
+
+### Building documenation that will be hosted on github pages
